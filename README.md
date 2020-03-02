@@ -5,7 +5,7 @@ Uses [Last.fm](https://www.last.fm/) and its [API](https://www.last.fm/api/) for
 
 Output can be shown for example in a status bar on your desktop such as [Polybar](https://polybar.github.io/):
 
-[!polybar example](../polybar_song_info.png)
+[!polybar example](../master/polybar_song_info.png)
 
 ## Dependencies
 Python 3
